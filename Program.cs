@@ -28,15 +28,7 @@ namespace UltimaParcela
             Console.WriteLine($"A Ultima Parcela Será Em: {ParcelaFinal}, No Valor De R${ValorTotal}");
 
                         
-            Console.WriteLine(FiggleFonts.Standard.Render("OBRIGADO!"));
-
-
-
-
-
-
-
-            
+            Console.WriteLine(FiggleFonts.Standard.Render("OBRIGADO!"));           
             
 
         }
